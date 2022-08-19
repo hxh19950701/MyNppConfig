@@ -1,54 +1,56 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="200" dotMatchesNewline="no" isSearch2ButtonsMode="yes" regexBackward4PowerUser="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="1" transparencyMode="1" transparency="200" dotMatchesNewline="no" isSearch2ButtonsMode="yes" regexBackward4PowerUser="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no">
         <Filter name="" />
+        <Find name="#" />
+        <Find name="eq" />
+        <Find name="0x3" />
+        <Find name="0x" />
+        <Find name="&lt;init&gt;" />
+        <Find name=".param" />
+        <Find name="\n" />
+        <Find name="," />
+        <Find name="&#x4E4D;&#x89C1;&#x4E4B;&#x6B22;" />
         <Find name="life" />
-        <Find name="&#x5FCD;&#x8005;" />
-        <Find name="&#x795E;" />
-        <Find name="Nintendo - Super Nintendo Entertainment System.lpl" />
-        <Find name="&#x5FCD;&#x8005;&#x795E;&#x9F9F;" />
-        <Find name="&#x70ED;&#x8840;" />
-        <Find name="1005" />
-        <Find name="&#x4E3A;&#x4E86;&#x6211;" />
-        <Find name="sta" />
-        <Find name="shop" />
-        <Replace name="SFC.lpl" />
+        <Replace name="" />
         <Replace name=" " />
+        <Replace name="SFC.lpl" />
     </FindHistory>
-    <FileBrowser latestSelectedItem="E:\Project\OpenSource\OpenJDK8\hotspot\test\testlibrary_tests\whitebox\vm_flags\UintxTest.java">
-        <root foldername="E:\Project\OpenSource\OpenJDK8\hotspot\test\testlibrary_tests" />
+    <FileBrowser latestSelectedItem="D:\&#x97F3;&#x4E50;\azusa\azusa - &#x592A;&#x967D;&#x306E;&#x30B5;&#x30A4;&#x30F3; (&#x592A;&#x9633;&#x7684;&#x4FE1;&#x53F7;).lrc">
+        <root foldername="E:\Project\Android\shadowsocks-android" />
+        <root foldername="D:\&#x97F3;&#x4E50;\azusa" />
     </FileBrowser>
     <History nbMaxFile="30" inSubMenu="yes" customLength="60">
-        <File filename="E:\Project\OpenSource\OpenJDK8\hotspot\test\testlibrary_tests\whitebox\vm_flags\UintxTest.java" />
-        <File filename="C:\Users\hxh19950701\Documents\NetSarang Computer\7\Xshell\Sessions\hxh@192.168.200.101.xsh" />
-        <File filename="C:\Users\hxh19950701\Documents\NetSarang Computer\7\Xshell\Sessions\default" />
-        <File filename="E:\Project\OpenSource\OpenJDK8\hotspot\src\cpu\x86\vm\x86_32.ad" />
-        <File filename="E:\Project\MyEclipse\vote\.settings\org.eclipse.wst.common.project.facet.core.xml" />
-        <File filename="F:\MiFlashvcom.ini" />
-        <File filename="F:\Windows Kits\10\Extension SDKs\WindowsTeam\10.0.19041.0\Include\winrt\windows.ui.core.preview.communications.idl" />
-        <File filename="F:\Windows Kits\10\Extension SDKs\WindowsTeam\10.0.19041.0\Include\winrt\windows.ui.core.preview.communications.h" />
-        <File filename="F:\Windows Kits\10\Extension SDKs\WindowsTeam\10.0.19041.0\SDKManifest.xml" />
-        <File filename="F:\Windows Kits\10\Extension SDKs\WindowsTeam\10.0.19041.0\PreviousPlatforms.xml" />
-        <File filename="E:\Project\OpenSource\FFmpeg-3.4\doc\ffmpeg.txt" />
-        <File filename="F:\Program Files\Imagine\PlugInst.inf" />
-        <File filename="E:\Project\OpenSource\android-6.0.1_r1\frameworks\ex\framesequence\jni\JNIHelpers.cpp" />
-        <File filename="F:\Windows Kits\10\Source\10.0.19041.0\ucrt\conio\cprintf.cpp" />
-        <File filename="F:\Windows Kits\10\Source\10.0.19041.0\ucrt\conio\popen.cpp" />
-        <File filename="F:\Windows Kits\10\Source\10.0.19041.0\ucrt\conio\getch.cpp" />
-        <File filename="F:\Program Files\PremiumSoft\Navicat 16 for MySQL\navicat.bat" />
-        <File filename="F:\Program Files\Imagine\Readme.txt" />
-        <File filename="F:\Program Files\Imagine\Whatsnew.txt" />
-        <File filename="F:\Program Files\DAUM\PotPlayer\FileList.txt" />
-        <File filename="F:\Program Files\Notepad++\change.log" />
-        <File filename="E:\Caches\Telegram\&#x76D2;&#x5B50;&#x5347;&#x7EA7;&#x529F;&#x80FD;&#x6D4B;&#x8BD5;&#x7528;&#x4F8B; (3).xmind" />
-        <File filename="F:\Program Files (x86)\Office Tool\ReadMe.txt" />
-        <File filename="F:\Program Files\payload_dumper-win64\Readme.txt" />
-        <File filename="C:\Users\hxh19950701\Desktop\Arcade.lpl" />
-        <File filename="F:\Program Files\Notepad++\userDefineLang.xml" />
-        <File filename="F:\Program Files\Notepad++\nativeLang.xml" />
-        <File filename="C:\Users\hxh19950701\Desktop\SFC.lpl" />
-        <File filename="C:\Users\hxh19950701\Desktop\FC.lpl" />
-        <File filename="E:\Project\Android\icall\app\src\main\java\com\qesion\qcall\app\BaseActivity.java" />
+        <File filename="C:\Users\hxh\AppData\Local\Temp\7zO08E80E79\Utils.java" />
+        <File filename="C:\Users\hxh\AppData\Local\Temp\7zO08E9E469\RadioMetadata.aidl" />
+        <File filename="C:\Users\hxh\AppData\Local\Temp\7zO08E99A49\ProgramList.aidl" />
+        <File filename="D:\Project\Android\MXBoxAPKs\WebSocket\build.gradle" />
+        <File filename="C:\Users\hxh\AppData\Local\Temp\7zO08E380A7\IRadioService.aidl" />
+        <File filename="D:\Project\Git\MyNppConfig\config.xml" />
+        <File filename="D:\Project\Git\scripts\artwork.groovy" />
+        <File filename="D:\Project\Git\scripts\sysinfo.groovy" />
+        <File filename="D:\Project\Git\scripts\amc.groovy" />
+        <File filename="D:\Project\Git\scripts\sysenv.groovy" />
+        <File filename="D:\Project\Android\MXBoxAPKs\communication\build.gradle" />
+        <File filename="D:\Project\Android\MXBoxAPKs\gradle\library.gradle" />
+        <File filename="D:\Project\Android\MXBoxAPKs\gradle\application.gradle" />
+        <File filename="D:\Project\Android\MXBoxAPKs\settings.gradle" />
+        <File filename="D:\Program Files\Notepad++\userDefineLangs\Gradle.xml" />
+        <File filename="D:\Program Files\Notepad++\userDefineLangs\Groovy.xml" />
+        <File filename="D:\Program Files\Notepad++\userDefineLangs\AIDL.xml" />
+        <File filename="D:\Program Files\Notepad++\contextMenu.xml" />
+        <File filename="D:\Program Files\Notepad++\userDefineLangs\Kotlin.xml" />
+        <File filename="C:\Users\hxh\Documents\APK Easy Tool\1-Decompiled APKs\iBiliPlayer-bili\smali\a5\b.smali" />
+        <File filename="C:\Users\hxh\Documents\APK Easy Tool\1-Decompiled APKs\iBiliPlayer-bili\smali\a\a.smali" />
+        <File filename="D:\Project\Android\MXBoxAPKs\gradle\common.gradle" />
+        <File filename="C:\Users\hxh\Desktop\Markdown-Demo.md" />
+        <File filename="C:\Users\hxh\Documents\APK Easy Tool\1-Decompiled APKs\jiang_quan_shi_jie\smali_classes5\com\example\helloworld\BuildConfig.smali" />
+        <File filename="C:\Users\hxh\Documents\APK Easy Tool\1-Decompiled APKs\iBiliPlayer-bili\smali_classes3\com\bilibili\live\streaming\AudioSession.smali" />
+        <File filename="C:\Users\hxh\Documents\APK Easy Tool\1-Decompiled APKs\iBiliPlayer-bili\smali\a2\d.smali" />
+        <File filename="C:\Users\hxh\Documents\APK Easy Tool\1-Decompiled APKs\jiang_quan_shi_jie\smali\com\caike\ticket\MyWrapperProxyApplication.smali" />
+        <File filename="C:\Users\hxh\Documents\APK Easy Tool\1-Decompiled APKs\jiang_quan_shi_jie\AndroidManifest.xml" />
+        <File filename="C:\Users\hxh\Desktop\test.pub" />
+        <File filename="C:\Users\hxh\Desktop\Readme.txt" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -62,8 +64,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="225" y="88" width="1443" height="830" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="790" top="165" right="1477" bottom="612" />
+        <GUIConfig name="AppPosition" x="268" y="128" width="1213" height="745" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="658" top="191" right="1345" bottom="555" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
@@ -82,7 +84,7 @@
         <GUIConfig name="MRU">yes</GUIConfig>
         <GUIConfig name="URL">2</GUIConfig>
         <GUIConfig name="uriCustomizedSchemes">svn:// cvs:// git:// imap:// irc:// irc6:// ircs:// ldap:// ldaps:// news: telnet:// gopher:// ssh:// sftp:// smb:// skype: snmp:// spotify: steam:// sms: slack:// chrome:// bitcoin:</GUIConfig>
-        <GUIConfig name="globalOverride" fg="no" bg="no" font="no" fontSize="no" bold="no" italic="no" underline="no" />
+        <GUIConfig name="globalOverride" fg="no" bg="no" font="yes" fontSize="yes" bold="no" italic="no" underline="no" />
         <GUIConfig name="auto-completion" autoCAction="3" triggerFromNbChar="1" autoCIgnoreNumbers="yes" insertSelectedItemUseENTER="no" insertSelectedItemUseTAB="yes" funcParams="yes" />
         <GUIConfig name="auto-insert" parentheses="yes" brackets="yes" curlyBrackets="yes" quotes="yes" doubleQuotes="yes" htmlXmlTag="yes" />
         <GUIConfig name="sessionExt"></GUIConfig>
@@ -92,7 +94,7 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="yes" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="F:\Program Files\Notepad++\themes\Vasthread Style.xml" />
+        <GUIConfig name="stylerTheme" path="D:\Program Files\Notepad++\themes\Vasthread Style.xml" />
         <GUIConfig name="insertDateTime" customizedFormat="yyyy-MM-dd HH:mm:ss" reverseDefaultOrder="no" />
         <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
@@ -103,18 +105,17 @@
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="no" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorLinkText="65535" customColorEdge="6579300" customColorHotEdge="10197915" customColorDisabledEdge="4737096" />
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="no" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="yes" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="no" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" eolMode="1" borderWidth="0" smoothFont="yes" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
-        <GUIConfig name="DockingManager" leftWidth="281" rightWidth="685" topHeight="200" bottomHeight="200">
-            <FloatingWindow cont="4" x="421" y="151" width="1516" height="852" />
-            <FloatingWindow cont="5" x="286" y="233" width="576" height="916" />
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="no" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="3" virtualSpace="no" scrollBeyondLastLine="yes" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="no" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" eolMode="1" borderWidth="0" smoothFont="yes" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="562" topHeight="200" bottomHeight="200">
+            <FloatingWindow cont="4" x="352" y="220" width="1447" height="921" />
+            <FloatingWindow cont="5" x="352" y="220" width="1447" height="921" />
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="4" isVisible="no" />
-            <PluginDlg pluginName="Explorer.dll" id="0" curr="0" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="Explorer.dll" id="1" curr="0" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="5" isVisible="no" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44081" curr="0" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44082" curr="0" prev="-1" isVisible="no" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44070" curr="0" prev="-1" isVisible="no" />
             <PluginDlg pluginName="PreviewHTML.dll" id="0" curr="1" prev="5" isVisible="no" />
+            <PluginDlg pluginName="Explorer.dll" id="0" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="ComparePlugin.dll" id="11" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Explorer.dll" id="1" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44070" curr="0" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44080" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="1" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
